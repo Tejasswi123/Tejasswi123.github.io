@@ -1,0 +1,85 @@
+.h1{
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  padding-left: 30px;
+}
+#contactus{
+  margin-top: 0px;
+}
+#icon{
+
+}
+.navbar{
+  color: #111;
+}
+h1,h2,h3 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #fff;
+}
+h1{
+  margin-top: 100px;
+}
+.con{
+  color:#111;
+  margin-top: 10px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.txt{
+  padding: 0px 0px 0px 60px;
+}
+#contactus{
+  background-color: #f7f7f7;
+  color: #111;
+  padding: 100px 0px 100px 300px;
+  text-align: center;
+}
+#badge{
+  margin: 10%;
+}
+.container{
+    padding: 3% 15% 7%;
+text-align: center;
+margin-top: 100px;
+}
+p{
+  color:#111;
+}
+.social-icon{
+    margin: 20px 10px;
+}
+
+#head{
+  background-image: url(image14.jpg);
+  background-repeat: no-repeat;
+  padding-top: 50px ;
+  padding-bottom: 130px;
+  background-size: cover;
+
+
+}
+.blos{
+  color:#111;
+  padding-left: 100px;
+  padding-top: 120px;
+}
+.p-blos{
+  color: #111;
+  text-align: justify;
+padding-left: 100px;
+}
+.image2{
+  position:relative;
+  z-index:-1;
+  left: 50px;
+  top: 50px;
+}
+.image1{
+  position: absolute;
+  z-index: -1;
+  right: 150px;
+}
